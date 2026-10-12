@@ -1,6 +1,6 @@
 BME 2000 Module 0
 
-This repository contains my Python practice assignment for BME 2000.
+This repository contains my Python practice assignment for BME 2000.Computational Biomedical Engineering is a course that teaches students how to use programming and computational tools to solve problems in biomedical engineering.
 
 Files
 
